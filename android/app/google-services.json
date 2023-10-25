@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "749914565984",
+      "project_id": "facenet-uat",
+      "storage_bucket": "facenet-uat.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:749914565984:android:b496b079bd9d62ea4dc205",
+          "android_client_info": {
+            "package_name": "com.attendentkit"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAzIeMijvjEMoAOzIZg9qHorWUkbccRVFA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
